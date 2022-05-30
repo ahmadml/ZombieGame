@@ -21,5 +21,6 @@ the player must found the lab and save the world.
 
 ### The game includes music so that everything has a special sound, which raises the level of quality in the game.
 ## קישור למשחק https://massalha.itch.io/escape-from-death
+## קישור לקוד https://github.com/Game-development-pc/ZombiGame.git
 
 ![image](https://user-images.githubusercontent.com/57864630/170971874-2e806c16-3a25-429c-9710-f347fdbdbd38.png)
